@@ -6,5 +6,5 @@ class Config:
     USERNAME = 'USERNAME'
     PASSWORD = 'PASSWORD'
     IMAGE_FOLDER_PATH = os.getcwd() + '/images/'
-    CAPTION_LIST = ['Hello', 'Its fun loving']
+    CAPTION_LIST = ['bruh', 'bruh moment']
     INTERVAL_TIME_IN_HOURS = 1
